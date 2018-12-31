@@ -1,0 +1,24 @@
+{
+  "name": "node-login",
+  "version": "1.0.0",
+  "description": "Registration and login app using Node.js and Passport (Traverse Media).",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+     "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msanto7/node-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msanto7/node-login/issues"
+  },
+  "homepage": "https://github.com/msanto7/node-login#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
