@@ -15,7 +15,7 @@ Bootstrap theme for responive design: https://bootswatch.com/superhero/
 
 Passwords are encrypted and stored in the MongoDB using bcryptjs. Passport is used to handle authentication for the dashboard link to make sure users can't view restricted resources while logged out. 
 
-##Deployment
+## Deployment
 
 This has not yet been deployed or hosted in anyway. The project was developed using VSCode on a windows machine. If you clone the project and run "npm run dev"...you can find the project by navigating to your localhost at port 5000.
 
